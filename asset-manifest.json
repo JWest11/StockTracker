@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/StockTracker/static/css/main.e567a1bc.css",
+    "main.js": "/StockTracker/static/js/main.aa785d8b.js",
+    "static/media/newsStock.jpg": "/StockTracker/static/media/newsStock.926a11405e29c548f222.jpg",
+    "index.html": "/StockTracker/index.html",
+    "main.e567a1bc.css.map": "/StockTracker/static/css/main.e567a1bc.css.map",
+    "main.aa785d8b.js.map": "/StockTracker/static/js/main.aa785d8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e567a1bc.css",
+    "static/js/main.aa785d8b.js"
+  ]
+}
