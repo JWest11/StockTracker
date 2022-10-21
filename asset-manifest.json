@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/StockTracker/static/css/main.07f59e96.css",
+    "main.css": "/StockTracker/static/css/main.6e58bf60.css",
     "main.js": "/StockTracker/static/js/main.c64590c8.js",
     "static/media/newsStock.jpg": "/StockTracker/static/media/newsStock.926a11405e29c548f222.jpg",
     "index.html": "/StockTracker/index.html",
-    "main.07f59e96.css.map": "/StockTracker/static/css/main.07f59e96.css.map",
+    "main.6e58bf60.css.map": "/StockTracker/static/css/main.6e58bf60.css.map",
     "main.c64590c8.js.map": "/StockTracker/static/js/main.c64590c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.07f59e96.css",
+    "static/css/main.6e58bf60.css",
     "static/js/main.c64590c8.js"
   ]
 }
