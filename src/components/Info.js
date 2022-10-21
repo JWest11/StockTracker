@@ -31,7 +31,7 @@ export default function Info({symbol, error, setPendingSymbol, loading}) {
         {info &&
         <div className='container text-center d-flex flex-column'>
           <h1>{info.name} {symbol}</h1>
-          <a className="p-1" target="_blank" href={info.weburl}>{info.weburl}</a>
+          <div className="mb-1 mt-1"><a className="p-1" target="_blank" href={info.weburl}>{info.weburl}</a></div>
           {loading ?
           <h3 className="text-warning text-center p-2">Loading...</h3>
           :
