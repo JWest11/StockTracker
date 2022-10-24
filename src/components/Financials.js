@@ -18,7 +18,7 @@ export default function Financials({symbol}) {
       };
 
   return (
-    <div className='container-xxl mt-4 mb-4 bg-light text-dark text-center border border-secondary border-3'>
+    <div className='container-xxl mt-4 mb-4 bg-light text-dark text-center'>
         {financials &&
         <>
         <div className="row">

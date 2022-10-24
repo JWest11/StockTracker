@@ -36,14 +36,14 @@ export default function Info({symbol, error, setPendingSymbol, loading}) {
           <h3 className="text-warning text-center p-2">Loading...</h3>
           :
           <div className="container p-2 d-flex flex-row justify-content-center">
-            <input className="form-control tickerInput bg-secondary border-dark text-light" type="text" ref={inputRef} list="dataListOptions"/>
+            <input className="form-control tickerInput bg-light border-dark text-dark" placeholder='AAPL' type="text" ref={inputRef} list="dataListOptions"/>
               <datalist id="dataListOptions">
                 <option value="MSFT"></option>
                 <option value="TSLA"></option>
                 <option value="BRK.A"></option>
                 <option value="AMZN"></option>
               </datalist>
-            <button className="btn btn-secondary" onClick={handleChangeTicker}>Change Symbol</button>
+            <button className="btn btn-light" onClick={handleChangeTicker}>Change Symbol</button>
           </div>
           }
           

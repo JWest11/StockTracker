@@ -14,7 +14,7 @@ export default function Story({i, news}) {
                 <img className="newsImage" src={news[i].image ? news[i].image : imgSrc}></img>
             </div>
         </div>
-        <a target="blank" className="btn btn-secondary border" href={news[i].url}>View Story</a>                    
+        <a target="blank" className="btn btn-dark border" href={news[i].url}>View Story</a>                    
     </div>
     :
     <div></div>

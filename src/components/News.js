@@ -25,7 +25,7 @@ export default function News({symbol}) {
 
   return (
     <>
-    <div className='container-xxl bg-light text-dark mb-4 border border-3 border-secondary'>
+    <div className='container-xxl bg-light text-dark mb-4'>
     <h2 className="text-center p-2">Related News</h2>
           {news && 
           <>

@@ -69,7 +69,7 @@ export default function Candles({symbol}) {
     
 
   return (
-    <div className='container-xxl d-flex justify-content-center flex-column'>
+    <div className='container-xxl bg-light p-2 d-flex justify-content-center flex-column'>
         <div id="candleChart" className="chartContainer container"></div>
     </div>
   )
